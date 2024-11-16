@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>603804644803-ttte6u40p6e8kc8v0d3b22lh2079knuj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.603804644803-ttte6u40p6e8kc8v0d3b22lh2079knuj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>603804644803-b50rqbaefm00ci9mp53q8np6lrndk58p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUj0fymxp2CnnqgXLH3cXD_Uvl8Tbwpu0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>603804644803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.Wisecrop</string>
+	<key>PROJECT_ID</key>
+	<string>orbital-ego-539</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orbital-ego-539.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:603804644803:ios:84cb3a2d25093ad4f1b976</string>
+	<key>DATABASE_URL</key>
+	<string>https://orbital-ego-539.firebaseio.com</string>
+</dict>
+</plist>
